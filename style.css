@@ -1,0 +1,10 @@
+p,
+li,
+.slidev-layout kbd,
+table {
+  font-size: 24px;
+}
+
+ul li {
+  margin: 12px 0;
+}

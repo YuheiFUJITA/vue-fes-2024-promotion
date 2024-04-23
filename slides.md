@@ -54,7 +54,7 @@ image: /images/top.png
 layout: statement
 ---
 
-# 🚧CPF受付準備中🚧
+# 🚧CFP受付準備中🚧
 
 最新情報は[公式Xアカウント](https://twitter.com/vuefes)をご確認ください。
 
